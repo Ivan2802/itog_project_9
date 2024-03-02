@@ -1,1 +1,3 @@
-https://ru.wikipedia.org/
+https://ru.wikipedia.org
+https://habr.com/ru
+https://www.psyh.ru
